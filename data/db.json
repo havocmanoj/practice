@@ -1,0 +1,47 @@
+       {"posts": [
+
+       {
+        "id":"1",
+        "title":"First Post",
+        "description":"Hello this is my first post which i am writing on my blog.",
+        "created-at":"2024-01-20"
+        },
+        {
+        "id":"2",
+        "title":"A Day in the Life",
+        "description":"This is my day in the life, i never  get excited like this before",
+        "created-at":"2024-01-25"
+        },
+        {
+        "id":"3",
+        "title":"Location",
+        "description":"Wonderful place to visit and the people are friendly.",
+        "created-at":"2024-01-12"
+        },
+        {
+        "id":"4",
+        "title":"House",
+        "description":"This is our new house, we bought it last year with the help of a loan.",
+        "created-at":"2024-05-20"
+        },
+        {
+        "id":"5",
+        "title":"Car",
+        "description":"Our first car which we bought with our savings and this one is a new model.",
+        "created-at":"2025-01-30"
+        },
+         {
+        "id":"6",
+        "title":"Best coding",
+        "description":"AI and Blockchain are the future. every developer should learn these technologies for better career.",
+        "created-at":"2025-01-30"
+        }, 
+        {
+        "id":"7",
+        "title":"Future of Web development",
+        "description":"React and Node.js are gaining traction among developers",
+        "created-at":"2025-01-30"
+        }
+      ]
+    }
+        
